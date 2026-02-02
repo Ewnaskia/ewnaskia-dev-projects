@@ -20,4 +20,4 @@ HTML • CSS • JavaScript • Python • Node.js • Flask • AI APIs
 - Experiment with AI + automation
 
 ---
-🧠 Created and maintained by Berat.
+🧠 Created and maintained by Ewnaskia.
