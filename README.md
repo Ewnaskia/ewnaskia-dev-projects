@@ -1,4 +1,4 @@
-# Berat's Dev Projects
+# Ewnaskia's Dev Projects
 
 Welcome to my personal development hub!  
 Here I collect all my **web**, **software**, and **automation** projects.
